@@ -1,6 +1,6 @@
 ### Linear Algebra application codes 
 
-` Will be updated when I choose to spend time in it more `
+` Will be updated when I choose to spend more time for it `
 
 
 - Graph and network analysis
